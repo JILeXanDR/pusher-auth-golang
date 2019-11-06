@@ -1,0 +1,8 @@
+{
+  "env": {
+    "PUSHER_APP_ID": "@pusher-app-id",
+    "PUSHER_KEY": "@pusher-key",
+    "PUSHER_SECRET": "@pusher-secret",
+    "PUSHER_CLUSTER": "@pusher-cluster"
+  }
+}
